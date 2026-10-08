@@ -6,7 +6,7 @@ Numerical and symbolic support for **Removing Trace Preservation from a Universa
 
 For a superoperator on `M_d`, the paper proves, using its cited trace-preserving theorem,
 
-$$\operatorname{Tr}A\le d\,m(A)+(d^2-d)\,s(A),$$
+$$\mathrm{Tr}A\le d\,m(A)+(d^2-d)\,s(A),$$
 
 where `m` and `s` are the smallest and largest real parts of its eigenvalues. The claim applies to 2-positive maps and generators of 2-positive semigroups, without trace preservation.
 
