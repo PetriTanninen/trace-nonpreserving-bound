@@ -1,0 +1,35 @@
+{
+  "loss_spectrum": [
+    0,
+    -1,
+    -1,
+    -2
+  ],
+  "note": "Transpose is positive but not 2-positive; state-dependent loss disproves only the broad spectral-shift sentence, not the theorem.",
+  "state_dependent_loss": {
+    "d": 2,
+    "holds_within_tolerance": true,
+    "hp_residual": 0.0,
+    "maximum_real": 0.0,
+    "minimum_real": -2.0,
+    "rhs": -4.0,
+    "slack": 0.0,
+    "spectral_radius": 2.0,
+    "tolerance": 4.1e-09,
+    "trace": -4.0,
+    "trace_imaginary": 0.0
+  },
+  "transpose_d2": {
+    "d": 2,
+    "holds_within_tolerance": false,
+    "hp_residual": 0.0,
+    "maximum_real": 1.0,
+    "minimum_real": -0.9999999999999999,
+    "rhs": 2.220446049250313e-16,
+    "slack": -1.9999999999999998,
+    "spectral_radius": 1.0,
+    "tolerance": 4.1e-09,
+    "trace": 2.0,
+    "trace_imaginary": 0.0
+  }
+}

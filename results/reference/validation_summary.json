@@ -1,0 +1,41 @@
+{
+  "all_internal_checks_passed": true,
+  "counts": {
+    "epsilon_limit_cases": 16,
+    "generator_derivative_points": 9,
+    "normalizations": 19,
+    "outside_cp_cases": 8,
+    "random_cp_maps": 200,
+    "random_tilted_cp_generators": 200,
+    "sharpness_cases": 20
+  },
+  "dimensions": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "environment": {
+    "numpy": "2.3.5",
+    "package": "0.1.0",
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+    "python": "3.13.5",
+    "scipy": "1.17.0",
+    "sympy": "1.14.0",
+    "thread_environment": {
+      "MKL_NUM_THREADS": "1",
+      "OMP_NUM_THREADS": "1",
+      "OPENBLAS_NUM_THREADS": "1"
+    }
+  },
+  "limitations": "Finite seeded checks, explicit non-CP families, and exact identities; not exhaustive sampling, interval arithmetic, a positivity decision procedure, or a machine-checked proof.",
+  "maximum_eigenmatrix_residual": 2.1061546083384413e-15,
+  "maximum_sharpness_absolute_slack": 2.7755575615628914e-16,
+  "maximum_tp_residual_in_normalization": 7.0224586375745694e-15,
+  "minimum_random_cp_slack": 0.16376412210577462,
+  "minimum_random_tilted_generator_slack": 0.1908829098045437,
+  "negative_control_transpose_slack": -1.9999999999999998,
+  "samples_per_dimension_per_random_family": 40,
+  "seed": 20261007
+}

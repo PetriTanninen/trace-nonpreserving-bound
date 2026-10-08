@@ -1,0 +1,10 @@
+# Copyright (c) 2026 Petri Tanninen, Sentient Machine Corporation
+# SPDX-License-Identifier: MIT
+include README.md LICENSE CITATION.cff requirements-reference.txt
+recursive-include src *.py
+recursive-include tests *.py
+recursive-include scripts *.py
+recursive-include docs *.md
+recursive-include paper *.tex *.pdf SHA256SUMS
+recursive-include results/reference *.csv *.json *.txt
+recursive-include .github *.yml

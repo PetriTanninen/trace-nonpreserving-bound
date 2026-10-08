@@ -1,0 +1,30 @@
+# Copyright (c) 2026 Petri Tanninen, Sentient Machine Corporation
+cff-version: 1.2.0
+message: "Please cite the manuscript when using its mathematical result, and cite the version of this support software used."
+title: "Trace-nonpreserving spectral bound: reproducibility support"
+type: software
+version: 0.1.0
+date-released: "2026-10-08"
+authors:
+  - family-names: Tanninen
+    given-names: Petri
+    affiliation: Sentient Machine Corporation
+    email: petri@sentientmachine.com
+abstract: "Numerical and symbolic diagnostics accompanying the manuscript. Not a machine-checked proof."
+license: MIT
+keywords:
+  - 2-positive maps
+  - quantum dynamical semigroups
+  - spectral inequalities
+  - reproducibility
+preferred-citation:
+  type: preprint
+  title: "Removing Trace Preservation from a Universal Spectral Bound for 2-Positive Maps"
+  authors:
+    - family-names: Tanninen
+      given-names: Petri
+      affiliation: Sentient Machine Corporation
+      email: petri@sentientmachine.com
+  year: 2026
+  month: 10
+  doi: "10.5281/zenodo.23225994"

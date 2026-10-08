@@ -1,0 +1,18 @@
+{
+  "final_manuscript": "paper/trace_nonpreserving_bound.tex",
+  "final_pdf_pages": 9,
+  "final_compile_passes": 2,
+  "final_overfull_boxes": 0,
+  "final_undefined_references": 0,
+  "final_cross_reference_names_checked": true,
+  "superseded_drafts_included": false,
+  "local_test_result": "105 passed in 0.83s",
+  "editable_install_tested": true,
+  "wheel_build_tested": true,
+  "sdist_build_tested": true,
+  "installed_cli_tested": true,
+  "reference_csvs_reproduced_byte_identical": true,
+  "github_actions_run_remotely": false,
+  "citation_yaml_parsed": true,
+  "visual_review": "All nine final pages inspected in rendered form."
+}

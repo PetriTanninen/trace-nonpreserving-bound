@@ -1,0 +1,25 @@
+{
+  "all_checks_passed": true,
+  "eigenbasis_dimensions_checked": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "identities": {
+    "multiplicity_sum_minus_d_squared": "0",
+    "replacement_rhs_minus_trace": "-a + d",
+    "shifted_equality_slack": "0",
+    "trace_G_plus_d": "0"
+  },
+  "kraus_completeness_in_q": "zero matrix",
+  "reduction_choi_eigenvalue_at_d3_alpha_half": "-1/2",
+  "scope": "Exact algebraic identities; finite-dimension eigenbasis checks, not a formal proof of the theorem.",
+  "state_dependent_loss_spectrum": [
+    "0",
+    "-1",
+    "-1",
+    "-2"
+  ]
+}
